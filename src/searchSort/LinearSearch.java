@@ -3,7 +3,7 @@ package searchSort;
  * @author Amos Kibet
  *
  */
-public class Search {
+public class LinearSearch {
 
 	/**
 	 * @param args
