@@ -1,7 +1,4 @@
-/**
- * 
- */
-package src.searchSort;
+package searchSort;
 
 import java.util.Arrays;
 
